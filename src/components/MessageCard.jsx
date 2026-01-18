@@ -23,9 +23,9 @@ share memories, and make this special day even more memorable.
 This template supports multiple lines and formatting,
 so feel free to customize it completely to fit your style.
 
-Happy Birthday! 🎉
+Happy Birthday! Gadhedi🫠💗
 
-— [Your Name]`;
+— [shyam]`;
 
   // Handle page transitions
   useEffect(() => {
