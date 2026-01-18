@@ -13,15 +13,12 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Shakshi],
 
-Your personalized birthday message goes here.
-
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+happy Birthday to you beta God bless uhh bohtt sara 🎉
+May your day be filled with love, laughter, and unforgettable moments.
+You deserve all the happiness in the world!
+I love uhh so much baby 😘
 
 Happy Birthday! Gadhedi🫠💗
 
