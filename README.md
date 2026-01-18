@@ -27,7 +27,7 @@ Open `http://localhost:5173`
 **File:** `src/components/Countdown.jsx` (Line 21)
 
 ```javascript
-const targetDate = new Date("2025-12-18T00:00:00");
+const targetDate = new Date("2026-01-20T12:00:00");
 ```
 
 **Format Explanation:**
@@ -55,13 +55,13 @@ const targetDate = new Date("2025-12-18T00:00:00");
 **Real Examples:**
 ```javascript
 // January 15, 2026 at midnight
-const targetDate = new Date("2026-01-15T00:00:00");
+const targetDate = new Date("2026-01-20T00:00:00");
 
 // June 10, 2025 at 3:30 PM
-const targetDate = new Date("2025-06-10T15:30:00");
+const targetDate = new Date("2026-01-20T15:30:00");
 
 // December 25, 2025 at noon
-const targetDate = new Date("2025-12-25T12:00:00");
+const targetDate = new Date("2026-01-20T12:00:00");
 ```
 
 **⚠️ Common Mistakes:**
@@ -76,9 +76,9 @@ const targetDate = new Date("2025-12-25T12:00:00");
 **File:** `src/components/MessageCard.jsx` (Lines 17-28)
 
 ```javascript
-const recipientName = "Divyanshi";
-const senderName = "Ashmit";
-const message = `Your message here...`;
+const recipientName = "shakshi";
+const senderName = "Shyam";
+const message = `Happy Birthday Baby💌 I love uhh so much 😘🫶🏻...`;
 ```
 
 ---
