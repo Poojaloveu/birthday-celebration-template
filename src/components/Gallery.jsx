@@ -13,10 +13,10 @@ function Gallery({ isActive }) {
   const photos = [
     { src: "/images/photo1.jpeg", alt: "Memory 1" },
     { src: "/images/photo2.jpeg", alt: "Memory 2" },
-    { src: "/images/photo 3.jpeg", alt: "Memory 3" },
-    { src: "/images/photo4.jpeg", alt: "Memory 4" },
-    { src: "/images/photo5.jpeg", alt: "Memory 5" },
-    { src: "/images/photo6.jpeg", alt: "Memory 6" },
+    { src: "/images/photo4.jpeg", alt: "Memory 3" },
+    { src: "/images/photo5.jpeg", alt: "Memory 4" },
+    { src: "/images/photo6.jpeg", alt: "Memory 5" },
+    { src: "/images/photo7.jpeg", alt: "Memory 6" },
   ];
 
   // Reveal photos with GSAP when page becomes active
