@@ -4,7 +4,7 @@ Please add 6 photos to this folder with the following names:
 
 - `photo1.jpg`
 - `photo2.jpg`
-- `photo3.jpg`
+- `photo 3.jpg`
 - `photo4.jpg`
 - `photo5.jpg`
 - `photo6.jpg`
